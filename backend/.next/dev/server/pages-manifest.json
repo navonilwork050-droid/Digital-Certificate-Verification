@@ -1,0 +1,6 @@
+{
+  "/api/auth/signup": "pages/api/auth/signup.js",
+  "/api/blockchain/mint": "pages/api/blockchain/mint.js",
+  "/api/blockchain/verify": "pages/api/blockchain/verify.js",
+  "/api/issuer": "pages/api/issuer.js"
+}

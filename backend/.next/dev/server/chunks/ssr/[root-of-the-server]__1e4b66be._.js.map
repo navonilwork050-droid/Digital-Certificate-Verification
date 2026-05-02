@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Mr.%20Admin/Desktop/pro/backend/pages/index.js"],"sourcesContent":["export default function Home() {\r\n    return (\r\n        <main style={{ padding: 20, fontFamily: 'sans-serif' }}>\r\n            <h1>Backend (Next.js) — API</h1>\r\n            <p>Demo API routes:</p>\r\n            <ul>\r\n                <li><a href=\"/api/status\">/api/status</a></li>\r\n                <li><a href=\"/api/auth/signin\">/api/auth/signin</a> (POST)</li>\r\n                <li><a href=\"/api/auth/signup\">/api/auth/signup</a> (POST)</li>\r\n                <li><a href=\"/api/issuer\">/api/issuer</a></li>\r\n                <li><a href=\"/api/verification\">/api/verification</a></li>\r\n            </ul>\r\n        </main>\r\n    );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,qKAAC;QAAK,OAAO;YAAE,SAAS;YAAI,YAAY;QAAa;;0BACjD,qKAAC;0BAAG;;;;;;0BACJ,qKAAC;0BAAE;;;;;;0BACH,qKAAC;;kCACG,qKAAC;kCAAG,cAAA,qKAAC;4BAAE,MAAK;sCAAc;;;;;;;;;;;kCAC1B,qKAAC;;0CAAG,qKAAC;gCAAE,MAAK;0CAAmB;;;;;;4BAAoB;;;;;;;kCACnD,qKAAC;;0CAAG,qKAAC;gCAAE,MAAK;0CAAmB;;;;;;4BAAoB;;;;;;;kCACnD,qKAAC;kCAAG,cAAA,qKAAC;4BAAE,MAAK;sCAAc;;;;;;;;;;;kCAC1B,qKAAC;kCAAG,cAAA,qKAAC;4BAAE,MAAK;sCAAoB;;;;;;;;;;;;;;;;;;;;;;;AAIhD"}}]
+}

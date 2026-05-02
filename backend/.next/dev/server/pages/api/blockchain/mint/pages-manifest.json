@@ -1,0 +1,3 @@
+{
+  "/api/blockchain/mint": "pages/api/blockchain/mint.js"
+}

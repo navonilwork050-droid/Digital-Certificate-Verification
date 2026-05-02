@@ -1,0 +1,3 @@
+{
+  "/api/blockchain/verify": "pages/api/blockchain/verify.js"
+}
